@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+.custom-toast {
+    background: rgba(0,0,12,0.8);
+    color: lightgray;
+}
+
+.custom-progress-bar {
+    background: gray;
+}
